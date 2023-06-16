@@ -12,6 +12,7 @@ The API allows users to perform various operations, such as adding new books, ge
 - **Retrieve Book:** The API allows users to retrieve information about a specific book by its unique identifier or fetch a list of all books in the bookshelf.
 - **Update Book:** Users can update the information of an existing book, such as modifying the title, author, genre, or publication year.
 - **Delete Book:** The API provides an endpoint to delete a book from the bookshelf based on its unique identifier.
+- **Validation:** Input data is validated to ensure that the required fields are provided.
 - **Error Handling:** The API includes error handling mechanisms to provide meaningful error messages and appropriate HTTP status codes.
 
 ## Technologies Used
@@ -21,13 +22,11 @@ The API allows users to perform various operations, such as adding new books, ge
 - JavaScript
 - npm (Node Package Manager)
 
-
 ## Prerequisites
 
 To run this project locally, ensure you have the following installed:
 
 - Node.js (along with npm)
-- MongoDB or PostgreSQL database (and the necessary connection details)
 
 ## Installation
 
