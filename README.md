@@ -37,7 +37,7 @@ https://github.com/indrawijayakusuma/bookShelf.git
 ```
 2. Install dependencies:
 ```bash
-cd bookshelf-api
+cd bookshelf
 npm install
 ```
 3. Run the application:
